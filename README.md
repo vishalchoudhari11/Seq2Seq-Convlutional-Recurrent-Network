@@ -40,7 +40,7 @@ While originally developed for **speech enhancement**, this framework is general
 
 ```bash
 # Clone the repository
-git clone https://github.com/vishalchoudhari11/Seq2Seq-Convlutional-Recurrent-Network.git
+git clone https://github.com/vishalchoudhari11/Seq2Seq-Convolutional-Recurrent-Network.git
 cd seq2seq-crn
 
 # Create virtual environment (optional but recommended)
